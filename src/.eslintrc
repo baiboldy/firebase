@@ -1,0 +1,10 @@
+{
+    "parser": "babel-eslint",
+    "rules": {
+        "semi": "warn",
+    },
+    "env": {
+        "es6": true,
+        "browser": true
+    }
+}
